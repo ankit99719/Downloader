@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Temporary files
+temp/
+*.tmp
+*.temp
+
+# Video files (keep VIDEOS folder structure but ignore contents during processing)
+VIDEOS/*.mp4
+!VIDEOS/.gitkeep
+
+# Archives are committed but can be large
+# archives/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
