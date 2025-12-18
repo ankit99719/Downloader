@@ -7,7 +7,6 @@ __pycache__/
 .Python
 
 # Temporary files
-temp/
 *.tmp
 *.temp
 
