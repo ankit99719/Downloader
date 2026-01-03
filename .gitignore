@@ -11,7 +11,6 @@ __pycache__/
 *.temp
 
 # Video files (keep VIDEOS folder structure but ignore contents during processing)
-VIDEOS/*.mp4
 !VIDEOS/.gitkeep
 
 # Archives are committed but can be large
