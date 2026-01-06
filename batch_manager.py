@@ -4,7 +4,7 @@ Handles automatic batch processing of links
 """
 import os
 
-BATCH_SIZE = 10  # Number of links to process per batch
+BATCH_SIZE = 5  # Number of links to process per batch
 ALL_LINKS_FILE = "all_links.txt"
 CURRENT_LINKS_FILE = "links.txt"
 BATCH_PROGRESS_FILE = "batch_progress.txt"
